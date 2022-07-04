@@ -1,0 +1,19 @@
+{
+  "name": "myjsoop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+		"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erykzon/my_JS_OPP.git"
+  },
+  "author": "erykzon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erykzon/my_JS_OPP/issues"
+  },
+  "homepage": "https://github.com/erykzon/my_JS_OPP#readme"
+}

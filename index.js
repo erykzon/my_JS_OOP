@@ -21,3 +21,9 @@ function Person (){
 		return `${this.name} ${this.lastname}`
 	}
 }
+
+const user2 = new Person()
+user2.name = "Pato"
+user2.lastname = "Loco"
+user2.age = 25
+console.log(user2.showfullname())
