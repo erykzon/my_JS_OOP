@@ -27,3 +27,9 @@ user2.name = "Pato"
 user2.lastname = "Loco"
 user2.age = 25
 console.log(user2.showfullname())
+
+const user3 = new Person()
+user3.name = "Chganchitoi"
+user3.lastname = "Feliz"
+user3.age = 45
+console.log(user3.showfullname())
