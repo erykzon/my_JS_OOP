@@ -1,3 +1,5 @@
+hidden=[".config"]
+
 language = "nodejs"
 run = "npm start"
 
@@ -5,4 +7,3 @@ run = "npm start"
 pattern = "**/{*.js,*.jsx,*.ts,*.tsx,*.mjs,*.cjs}"
   [languages.javascript.languageServer]
   start = ["typescript-language-server", "--stdio"]
-
