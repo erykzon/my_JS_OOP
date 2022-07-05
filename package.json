@@ -1,7 +1,7 @@
 {
   "name": "myjsoop",
   "version": "1.0.0",
-  "description": "",
+  "description": "Repaso de Js OOP",
   "main": "index.js",
   "scripts": {
 		"start": "node index.js"
