@@ -1,6 +1,7 @@
 const number = new Object (12)
 console.log(number)
 
+
 const user = {
   name: "eri",
   lastnanme: "key",
