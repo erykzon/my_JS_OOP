@@ -18,3 +18,11 @@ In order to understand the example you need:
   - Ob
 - oop principles
 
+#### Principles
+
+- Encapsulation
+	- Capapbility to concentrate into a single entity data and code that manipulates it hidden internal details.
+- Inheritance
+	- mechanism by which object acquires some or all features if ine or more objects
+- Polymorphism
+	- capability to process objects differently based on their data type or structure
