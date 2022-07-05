@@ -13,3 +13,4 @@ console.log(Erick)
 const Pato = new Person("Pato", "Loco")
 
 console.log(Pato)
+

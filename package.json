@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Repaso de Js OOP",
   "main": "index.js",
+	"type" : "module",
   "scripts": {
 		"start": "node index.js"
   },
@@ -10,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/erykzon/my_JS_OPP.git"
   },
+	"keywords": [],
   "author": "erykzon",
   "license": "ISC",
   "bugs": {
