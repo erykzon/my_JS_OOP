@@ -1,3 +1,8 @@
 language = "nodejs"
 run = "npm start"
 
+[languages.javascript]
+pattern = "**/{*.js,*.jsx,*.ts,*.tsx,*.mjs,*.cjs}"
+  [languages.javascript.languageServer]
+  start = ["typescript-language-server", "--stdio"]
+

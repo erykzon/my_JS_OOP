@@ -1,7 +1,6 @@
 const number = new Object (12)
 console.log(number)
 
-
 const user = {
   name: "eri",
   lastnanme: "key",
@@ -18,6 +17,7 @@ const user = {
 console.log(user.showfullname())
 console.log(Object.keys(user))
 console.log(Object.values(user))
+
 
 function Person (){
 	this.name = ""
