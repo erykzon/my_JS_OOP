@@ -1,21 +1,21 @@
-function company (name){
-	let employees = []
-	this.name = name
-
-	this.getemployees = function () {
-		return employees
-	}
-
-	this.addemployee = function(employee){
-		employees.push(employee)
-		
+class Person {
+	constructor(name, lastname){
+		this.name = name
+		this.lastname = lastname
 	}
 }
 
-const Company = new company("oko")
+class Programer extends Person {
+	constructor(name , lastname, language){
+		super(name, lastname) // se agrega para completar la extencion de la clase padre
+		this.language = language
+	}
+}
 
-console.log(Company)
+const person = new Person("Pato", "Enojado")
 
-Company.addemployee({name: "erick"})
+console.log(person)
 
-console.log(Company.getemployees())
+const programer = new Programer("Chancho","Feliz", "Java")
+
+console.log(programer)
