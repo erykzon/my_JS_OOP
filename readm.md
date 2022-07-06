@@ -26,3 +26,8 @@ In order to understand the example you need:
 	- mechanism by which object acquires some or all features if ine or more objects
 - Polymorphism
 	- capability to process objects differently based on their data type or structure
+
+#### Encapsulation
+
+- Simplify the use. we don't know how works internally. it just works
+- simplify change managment we can change the internal code, but output has to be the same
