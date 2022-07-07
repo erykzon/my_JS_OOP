@@ -31,3 +31,8 @@ In order to understand the example you need:
 
 - Simplify the use. we don't know how works internally. it just works
 - simplify change managment we can change the internal code, but output has to be the same
+
+#### Polymorfism
+
+- Overloading
+	- 

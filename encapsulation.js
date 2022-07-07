@@ -19,3 +19,4 @@ console.log(Company)
 Company.addemployee({name: "erick"})
 
 console.log(Company.getemployees())
+
